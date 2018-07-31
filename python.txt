@@ -1,0 +1,11 @@
+https://docs.python.org/3.7/tutorial/index.html 
+
+
+python basics 
+
+
+http://aosabook.org/en/matplotlib.html     matplotlib for drawing things using python
+
+
+
+darkhorseanalytics.com    /// to learn how to use different libraries

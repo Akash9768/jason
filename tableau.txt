@@ -1,0 +1,37 @@
+this alll is for descriptive analysis
+
+
+which chart to select 
+
+limited data then pie chart 
+bar graph
+
+
+how to show label 
+if you dont want see your data using visualization
+
+
+
+line graph alawys needs a date columne or else it cannot work 
+line graph cannot be transpose 
+
+to keep in continous or discrete 
+discrete becos it will show the exact variations and continous wont show that 
+
+
+
+if you see 2 views and you want only 1 view then use dual axis
+
+
+
+
+how to create a dashboard ?
+
+for that on the left hand side clik on the size and make that automatic
+and drag all the sheets to the dashboards
+now to fit all the sheets together you gotta click on the sheet and on the middle plane click on the standard and slelct fit width
+
+
+to get the full view click on the left hand side on the layout which has  2 lines and get to full screen
+
+to get back clcik on windwo next 2 help button and then select on show side bar 
